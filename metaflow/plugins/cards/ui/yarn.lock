@@ -1945,10 +1945,10 @@ magic-string@^0.25.7:
   dependencies:
     sourcemap-codec "^1.4.4"
 
-marked@^4.0.7:
-  version "4.0.10"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.10.tgz#423e295385cc0c3a70fa495e0df68b007b879423"
-  integrity sha512-+QvuFj0nGgO970fySghXGmuw+Fd0gD2x3+MqCWLIPf5oxdv1Ka6b2q+z9RP01P/IaKPMEramy+7cNy/Lw8c3hw==
+marked@^4.0.10:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.1.0.tgz#3fc6e7485f21c1ca5d6ec4a39de820e146954796"
+  integrity sha512-+Z6KDjSPa6/723PQYyc1axYZpYYpDnECDaU6hkaf5gqBieBkMKYReL5hteF2QizhlMbgbo8umXl/clZ67+GlsA==
 
 mdn-data@2.0.14:
   version "2.0.14"
@@ -2953,13 +2953,13 @@ svelte-check@^2.3.0:
     svelte-preprocess "^4.0.0"
     typescript "*"
 
-svelte-markdown@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/svelte-markdown/-/svelte-markdown-0.2.1.tgz#7ea06060879a8b66ea53aea06eb7c63f7c8ef015"
-  integrity sha512-3oj7kYFPaXAm5ARGuSfMjkmsF/iD6LxXqgMsAC1//PbO+tbx/sT30cXO1imAXL7w0M6hRr4o5CF95pRSZLxjjg==
+svelte-markdown@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/svelte-markdown/-/svelte-markdown-0.2.3.tgz#16c6db61605512100cf25c3e18f8e4105837895c"
+  integrity sha512-2h680NzTXnAD0CXhxe3GeHl6W+ayG4iKQRl+BIDRw+R0mUE0OiNxP1Vt8Rn+aWevB/LBiBIPCAwvL+0BkG057A==
   dependencies:
     "@types/marked" "^4.0.1"
-    marked "^4.0.7"
+    marked "^4.0.10"
 
 svelte-preprocess@^4.0.0:
   version "4.9.8"
